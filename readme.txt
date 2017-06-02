@@ -1,3 +1,3 @@
 git remote changed
 Creating a new branch is quick.
-create again
+Creating a new branch is quick & simple.
